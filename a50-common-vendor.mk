@@ -195,21 +195,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a50-common/proprietary/vendor/lib64/sensors.grip.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.grip.so \
     vendor/samsung/a50-common/proprietary/vendor/lib64/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a50-common/proprietary/vendor/lib64/vendor.samsung.hardware.gnss@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.samsung.hardware.gnss@2.0.so \
-    vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-00000000dead:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-00000000dead \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-000000010081:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-000000010081 \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-000000020081:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-000000020081 \
-    vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-000000534b4d:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-000000534b4d \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-000046495645:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-000046495645 \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-0050524f4341:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-0050524f4341 \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-00535453540c:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-00535453540c \
-    vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-0053545354ab:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-0053545354ab \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-00575644524d:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-00575644524d \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-446e6c6f6164:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-446e6c6f6164 \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-46494e474502:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-46494e474502 \
-    vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-46494e474552:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-46494e474552 \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-474154454b45:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-474154454b45 \
-    vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-4b45594d5354:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-4b45594d5354 \
-    vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-505256544545:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-505256544545 \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-535355504341:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-535355504341 \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-564c544b5052:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-564c544b5052 \
     vendor/samsung/a50-common/proprietary/vendor/tee/00000000-0000-0000-0000-656e676d6f64:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-656e676d6f64 \
